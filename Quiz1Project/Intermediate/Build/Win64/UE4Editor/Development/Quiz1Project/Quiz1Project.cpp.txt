@@ -1,0 +1,2 @@
+C:\Users\bbfen\source\repos\GraphicsRepos\GraphicQuiz1\Quiz1Project\Intermediate\Build\Win64\UE4Editor\Development\Quiz1Project\Definitions.Quiz1Project.h
+C:\Users\bbfen\source\repos\GraphicsRepos\GraphicQuiz1\Quiz1Project\Source\Quiz1Project\Quiz1Project.h

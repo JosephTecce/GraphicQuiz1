@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Quiz1Project.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\bbfen\source\repos\GraphicsRepos\GraphicQuiz1\Quiz1Project\Intermediate\Build\Win64\Quiz1ProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\bbfen\source\repos\GraphicsRepos\GraphicQuiz1\Quiz1Project\Intermediate\Build\Win64\UE4Editor\Development\Quiz1Project\Quiz1Project.cpp.obj"
+"C:\Users\bbfen\source\repos\GraphicsRepos\GraphicQuiz1\Quiz1Project\Intermediate\Build\Win64\UE4Editor\Development\Quiz1Project\Quiz1ProjectGameModeBase.cpp.obj"
+"C:\Users\bbfen\source\repos\GraphicsRepos\GraphicQuiz1\Quiz1Project\Intermediate\Build\Win64\UE4Editor\Development\Quiz1Project\Quiz1Project.init.gen.cpp.obj"
+"C:\Users\bbfen\source\repos\GraphicsRepos\GraphicQuiz1\Quiz1Project\Intermediate\Build\Win64\UE4Editor\Development\Quiz1Project\Quiz1ProjectGameModeBase.gen.cpp.obj"
+"C:\Users\bbfen\source\repos\GraphicsRepos\GraphicQuiz1\Quiz1Project\Intermediate\Build\Win64\UE4Editor\Development\Quiz1Project\Default.rc2.res"
+/OUT:"C:\Users\bbfen\source\repos\GraphicsRepos\GraphicQuiz1\Quiz1Project\Intermediate\Build\Win64\UE4Editor\Development\Quiz1Project\UE4Editor-Quiz1Project.lib"

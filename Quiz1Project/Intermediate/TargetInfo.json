@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Quiz1Project",
+			"Path": "C:\\Users\\bbfen\\source\\repos\\GraphicsRepos\\GraphicQuiz1\\Quiz1Project\\Source\\Quiz1Project.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Quiz1ProjectEditor",
+			"Path": "C:\\Users\\bbfen\\source\\repos\\GraphicsRepos\\GraphicQuiz1\\Quiz1Project\\Source\\Quiz1ProjectEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

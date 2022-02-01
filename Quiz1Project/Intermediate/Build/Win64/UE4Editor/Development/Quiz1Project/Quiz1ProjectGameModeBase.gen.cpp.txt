@@ -1,0 +1,9 @@
+C:\Users\bbfen\source\repos\GraphicsRepos\GraphicQuiz1\Quiz1Project\Intermediate\Build\Win64\UE4Editor\Development\Quiz1Project\Definitions.Quiz1Project.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\bbfen\source\repos\GraphicsRepos\GraphicQuiz1\Quiz1Project\Source\Quiz1Project/Quiz1ProjectGameModeBase.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+C:\Users\bbfen\source\repos\GraphicsRepos\GraphicQuiz1\Quiz1Project\Intermediate\Build\Win64\UE4Editor\Inc\Quiz1Project\Quiz1ProjectGameModeBase.generated.h
